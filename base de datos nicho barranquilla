@@ -1,0 +1,132 @@
+[
+  {
+    "_id": { "$oid": "60d5f8e3d6f7c0b2f2f8e2d1" },
+    "nombre": "Tomate",
+    "descripcion": "Tomate rojo fresco",
+    "precio": 1200,
+    "categoria": "Vegetales",
+    "proveedor": {
+      "nombre": "Agrícola del Norte",
+      "contacto": "agricola@example.com"
+    },
+    "cantidad_disponible": 200,
+    "fecha_actualizacion": "2024-06-01T00:00:00Z"
+  },
+  {
+    "_id": { "$oid": "60d5f8e3d6f7c0b2f2f8e2d2" },
+    "nombre": "Lechuga",
+    "descripcion": "Lechuga romana fresca",
+    "precio": 800,
+    "categoria": "Vegetales",
+    "proveedor": {
+      "nombre": "Hortalizas del Sur",
+      "contacto": "hortalizas@example.com"
+    },
+    "cantidad_disponible": 150,
+    "fecha_actualizacion": "2024-06-02T00:00:00Z"
+  },
+  {
+    "_id": { "$oid": "60d5f8e3d6f7c0b2f2f8e2d3" },
+    "nombre": "Banana",
+    "descripcion": "Banana madura",
+    "precio": 1000,
+    "categoria": "Frutas",
+    "proveedor": {
+      "nombre": "Frutas del Valle",
+      "contacto": "frutasvalle@example.com"
+    },
+    "cantidad_disponible": 300,
+    "fecha_actualizacion": "2024-06-03T00:00:00Z"
+  },
+  {
+    "_id": { "$oid": "60d5f8e3d6f7c0b2f2f8e2d4" },
+    "nombre": "Papa",
+    "descripcion": "Papa criolla",
+    "precio": 900,
+    "categoria": "Tubérculos",
+    "proveedor": {
+      "nombre": "Tubérculos del Norte",
+      "contacto": "tuberculos@example.com"
+    },
+    "cantidad_disponible": 250,
+    "fecha_actualizacion": "2024-06-04T00:00:00Z"
+  },
+  {
+    "_id": { "$oid": "60d5f8e3d6f7c0b2f2f8e2d5" },
+    "nombre": "Manzana",
+    "descripcion": "Manzana roja",
+    "precio": 1500,
+    "categoria": "Frutas",
+    "proveedor": {
+      "nombre": "Frutales del Campo",
+      "contacto": "frutalescampo@example.com"
+    },
+    "cantidad_disponible": 180,
+    "fecha_actualizacion": "2024-06-05T00:00:00Z"
+  },
+  {
+    "_id": { "$oid": "60d5f8e3d6f7c0b2f2f8e2d6" },
+    "nombre": "Cebolla",
+    "descripcion": "Cebolla cabezona",
+    "precio": 700,
+    "categoria": "Vegetales",
+    "proveedor": {
+      "nombre": "Vegetales del Caribe",
+      "contacto": "vegetalescaribe@example.com"
+    },
+    "cantidad_disponible": 220,
+    "fecha_actualizacion": "2024-06-06T00:00:00Z"
+  },
+  {
+    "_id": { "$oid": "60d5f8e3d6f7c0b2f2f8e2d7" },
+    "nombre": "Pepino",
+    "descripcion": "Pepino para ensalada",
+    "precio": 600,
+    "categoria": "Vegetales",
+    "proveedor": {
+      "nombre": "Hortalizas Frescas",
+      "contacto": "hortalizasfrescas@example.com"
+    },
+    "cantidad_disponible": 160,
+    "fecha_actualizacion": "2024-06-07T00:00:00Z"
+  },
+  {
+    "_id": { "$oid": "60d5f8e3d6f7c0b2f2f8e2d8" },
+    "nombre": "Zanahoria",
+    "descripcion": "Zanahoria orgánica",
+    "precio": 850,
+    "categoria": "Vegetales",
+    "proveedor": {
+      "nombre": "Productos Orgánicos",
+      "contacto": "productosorganicos@example.com"
+    },
+    "cantidad_disponible": 210,
+    "fecha_actualizacion": "2024-06-08T00:00:00Z"
+  },
+  {
+    "_id": { "$oid": "60d5f8e3d6f7c0b2f2f8e2d9" },
+    "nombre": "Mango",
+    "descripcion": "Mango biche",
+    "precio": 900,
+    "categoria": "Frutas",
+    "proveedor": {
+      "nombre": "Frutas de Oro",
+      "contacto": "frutasoro@example.com"
+    },
+    "cantidad_disponible": 190,
+    "fecha_actualizacion": "2024-06-09T00:00:00Z"
+  },
+  {
+    "_id": { "$oid": "60d5f8e3d6f7c0b2f2f8e2da" },
+    "nombre": "Naranja",
+    "descripcion": "Naranja jugosa",
+    "precio": 1200,
+    "categoria": "Frutas",
+    "proveedor": {
+      "nombre": "Cítricos del Valle",
+      "contacto": "citricosvalle@example.com"
+    },
+    "cantidad_disponible": 240,
+    "fecha_actualizacion": "2024-06-10T00:00:00Z"
+  }
+]
